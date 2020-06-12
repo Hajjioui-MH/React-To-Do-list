@@ -1,0 +1,11 @@
+form button,.submit{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color:rgba(202, 156, 24, 1); 
+  cursor: pointer;
+}
+input{
+	outline: none;
+}

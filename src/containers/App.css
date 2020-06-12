@@ -1,0 +1,21 @@
+  
+body{
+  background-color: #9266ff;
+}
+.wrapper{
+	margin: 4em auto;
+	background-color: #3f3160;
+	width: 450px;
+	min-height: 22em;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+}
+.scroll{
+	margin: 0 auto;
+}
+.fall{
+  transform: translateY(8em) rotateZ(20deg);
+  opacity: 0;
+}
